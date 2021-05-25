@@ -1,0 +1,259 @@
+{
+"states": [
+ {
+   "Province_State": "Alabama",
+   "Confirmed": 491849,
+   "Deaths": 9869
+ },
+ {
+   "Province_State": "Alaska",
+   "Confirmed": 58263,
+   "Deaths": 290
+ },
+ {
+   "Province_State": "Arizona",
+   "Confirmed": 814528,
+   "Deaths": 15897
+ },
+ {
+   "Province_State": "Arkansas",
+   "Confirmed": 318638,
+   "Deaths": 5407
+ },
+ {
+   "Province_State": "California",
+   "Confirmed": 3559311,
+   "Deaths": 51794
+ },
+ {
+   "Province_State": "Colorado",
+   "Confirmed": 426198,
+   "Deaths": 5940
+ },
+ {
+   "Province_State": "Connecticut",
+   "Confirmed": 279946,
+   "Deaths": 7622
+ },
+ {
+   "Province_State": "Delaware",
+   "Confirmed": 86098,
+   "Deaths": 1418
+ },
+ {
+   "Province_State": "Florida",
+   "Confirmed": 1898223,
+   "Deaths": 30624
+ },
+ {
+   "Province_State": "Georgia",
+   "Confirmed": 1000822,
+   "Deaths": 17219
+ },
+ {
+   "Province_State": "Hawaii",
+   "Confirmed": 27606,
+   "Deaths": 436
+ },
+ {
+   "Province_State": "Idaho",
+   "Confirmed": 170907,
+   "Deaths": 1859
+ },
+ {
+   "Province_State": "Illinois",
+   "Confirmed": 1183569,
+   "Deaths": 22675
+ },
+ {
+   "Province_State": "Indiana",
+   "Confirmed": 660071,
+   "Deaths": 12531
+ },
+ {
+   "Province_State": "Iowa",
+   "Confirmed": 362951,
+   "Deaths": 5463
+ },
+ {
+   "Province_State": "Kansas",
+   "Confirmed": 295997,
+   "Deaths": 4692
+ },
+ {
+   "Province_State": "Kentucky",
+   "Confirmed": 402926,
+   "Deaths": 4600
+ },
+ {
+   "Province_State": "Louisiana",
+   "Confirmed": 428592,
+   "Deaths": 9587
+ },
+ {
+   "Province_State": "Maine",
+   "Confirmed": 44296,
+   "Deaths": 701
+ },
+ {
+   "Province_State": "Maryland",
+   "Confirmed": 380436,
+   "Deaths": 7838
+ },
+ {
+   "Province_State": "Massachusetts",
+   "Confirmed": 577980,
+   "Deaths": 16024
+ },
+ {
+   "Province_State": "Michigan",
+   "Confirmed": 644125,
+   "Deaths": 16438
+ },
+ {
+   "Province_State": "Minnesota",
+   "Confirmed": 482978,
+   "Deaths": 6530
+ },
+ {
+   "Province_State": "Mississippi",
+   "Confirmed": 293542,
+   "Deaths": 6638
+ },
+ {
+   "Province_State": "Missouri",
+   "Confirmed": 494329,
+   "Deaths": 8269
+ },
+ {
+   "Province_State": "Montana",
+   "Confirmed": 99613,
+   "Deaths": 1354
+ },
+ {
+   "Province_State": "Nebraska",
+   "Confirmed": 200447,
+   "Deaths": 2078
+ },
+ {
+   "Province_State": "Nevada",
+   "Confirmed": 293029,
+   "Deaths": 4942
+ },
+ {
+   "Province_State": "New Hampshire",
+   "Confirmed": 74893,
+   "Deaths": 1167
+ },
+ {
+   "Province_State": "New Jersey",
+   "Confirmed": 782833,
+   "Deaths": 23192
+ },
+ {
+   "Province_State": "New Mexico",
+   "Confirmed": 184736,
+   "Deaths": 3685
+ },
+ {
+   "Province_State": "New York",
+   "Confirmed": 1624213,
+   "Deaths": 47389
+ },
+ {
+   "Province_State": "North Carolina",
+   "Confirmed": 855905,
+   "Deaths": 11186
+ },
+ {
+   "Province_State": "North Dakota",
+   "Confirmed": 99711,
+   "Deaths": 1472
+ },
+ {
+   "Province_State": "Ohio",
+   "Confirmed": 964380,
+   "Deaths": 17183
+ },
+ {
+   "Province_State": "Oklahoma",
+   "Confirmed": 423023,
+   "Deaths": 4320
+ },
+ {
+   "Province_State": "Oregon",
+   "Confirmed": 154878,
+   "Deaths": 2206
+ },
+ {
+   "Province_State": "Pennsylvania",
+   "Confirmed": 928633,
+   "Deaths": 23895
+ },
+ {
+   "Province_State": "Puerto Rico",
+   "Confirmed": 99860,
+   "Deaths": 2023
+ },
+ {
+   "Province_State": "Rhode Island",
+   "Confirmed": 125622,
+   "Deaths": 2502
+ },
+ {
+   "Province_State": "South Carolina",
+   "Confirmed": 513295,
+   "Deaths": 8477
+ },
+ {
+   "Province_State": "South Dakota",
+   "Confirmed": 112107,
+   "Deaths": 1879
+ },
+ {
+   "Province_State": "Tennessee",
+   "Confirmed": 772513,
+   "Deaths": 11377
+ },
+ {
+   "Province_State": "Texas",
+   "Confirmed": 2643463,
+   "Deaths": 43376
+ },
+ {
+   "Province_State": "Utah",
+   "Confirmed": 370084,
+   "Deaths": 1907
+ },
+ {
+   "Province_State": "Vermont",
+   "Confirmed": 14963,
+   "Deaths": 204
+ },
+ {
+   "Province_State": "Virginia",
+   "Confirmed": 572639,
+   "Deaths": 8197
+ },
+ {
+   "Province_State": "Washington",
+   "Confirmed": 338822,
+   "Deaths": 4956
+ },
+ {
+   "Province_State": "West Virginia",
+   "Confirmed": 131234,
+   "Deaths": 2291
+ },
+ {
+   "Province_State": "Wisconsin",
+   "Confirmed": 616018,
+   "Deaths": 6999
+ },
+ {
+   "Province_State": "Wyoming",
+   "Confirmed": 54350,
+   "Deaths": 671
+ }
+]
+}
